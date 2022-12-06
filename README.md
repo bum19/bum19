@@ -1,3 +1,6 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996joon)](https://solved.ac/1996joon)
+
+
 ### Hi there 👋
 
 <!--
