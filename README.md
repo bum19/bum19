@@ -25,8 +25,8 @@
 [My TechBlog](https://scottpooh001.tistory.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996joon)](https://solved.ac/1996joon)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbum19&count_bg=%2300FCFF&title_bg=%23FFFD12&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+ ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bum19&layout=compact&theme=radical)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbum19&count_bg=%2300FCFF&title_bg=%23FFFD12&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **bum19/bum19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
