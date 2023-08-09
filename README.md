@@ -1,9 +1,10 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996joon)](https://solved.ac/1996joon)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbum19&count_bg=%2300FCFF&title_bg=%23FFFD12&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-### LEE JOON BUM 👋
+# 👋LEE JOON BUM 👋 #
 ---
+## 🧑 Introduction 🧑 ##
+* I'm interested in `Web Back-End Developer` <br>
+* I'm majored in Computer Science
+
+## 🛠 Tech Stack 🛠
 ### Language
 <img src="https://img.shields.io/badge/OpenJDK-FFFFFF?style=for-the-badge&logo=OpenJDK&logoColor=black"> ![java](https://img.shields.io/badge/java-E34F26?style=flat&logo=java&logoColor=white)
 
@@ -20,13 +21,19 @@
 
 
 
+## 📚 Study 📚
+[My TechBlog](https://scottpooh001.tistory.com)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1996joon)](https://solved.ac/1996joon)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbum19&count_bg=%2300FCFF&title_bg=%23FFFD12&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
-깃헙링크,블로그링크, 등등..
 **bum19/bum19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
